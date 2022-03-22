@@ -1,0 +1,16 @@
+curs11_12\pages\CartPage.class
+curs11_12\features\search\ValidAndInvalidId.class
+curs11_12\pages\ProductPage.class
+curs11_12\features\search\DeleteProductFromCart.class
+curs11_12\features\search\package-info.class
+curs11_12\features\search\SearchByKeywordStoryParameterized.class
+curs11_12\features\search\SearchByKeywordStory.class
+curs11_12\pages\ResultPage.class
+curs11_12\steps\serenity\DeleteProductSteps.class
+curs11_12\steps\serenity\EndUserSteps.class
+curs11_12\pages\DictionaryPage.class
+curs11_12\features\search\AddProductToCart.class
+curs11_12\pages\LoginPage.class
+curs11_12\steps\serenity\AddProductSteps.class
+curs11_12\steps\serenity\ResultSteps.class
+curs11_12\steps\serenity\LoginSteps.class

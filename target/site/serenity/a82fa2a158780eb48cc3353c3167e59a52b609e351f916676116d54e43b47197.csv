@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Valid and invalid id","Valid login","SUCCESS","2021-11-20T11:53:44.0066446+02:00[Europe/Bucharest]","0.0","9.9"
+"Valid and invalid id","Invalid login","SUCCESS","2021-11-20T11:53:54.3792976+02:00[Europe/Bucharest]","0.0","4.53"

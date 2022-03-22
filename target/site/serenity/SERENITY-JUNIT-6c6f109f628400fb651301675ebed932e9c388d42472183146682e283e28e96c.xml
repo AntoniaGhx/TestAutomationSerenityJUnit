@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="curs11_12.features.search.AddProductToCart" skipped="0" tests="1" time="3.8" timestamp="2022-03-22 07:12:48"><testcase classname="curs11_12.features.search.AddProductToCart" name="Add one product to cart"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver&#13;
+curs11_12.steps.serenity.EndUserSteps.is_the_home_page(EndUserSteps.java:26)&#13;
+curs11_12.features.search.AddProductToCart.addOneProductToCart(AddProductToCart.java:28)&#13;
+</system-err></testcase></testsuite>
